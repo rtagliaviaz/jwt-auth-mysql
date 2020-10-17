@@ -1,0 +1,9 @@
+-improve ui
+- bcrypt
+-navigation
+-redux
+
+-read 
+https://www.robinwieruch.de/local-storage-react
+https://medium.com/@saurabhshah23/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22
+https://linguinecode.com/post/getting-started-with-react-useeffect
